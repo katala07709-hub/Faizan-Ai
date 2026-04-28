@@ -31,7 +31,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ejufwa.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "*𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽*",
+BOT_NAME: process.env.BOT_NAME || "*ERFAN-𝐌ᴅ⎯꯭̽*",
 // add bot name here for menu
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // true to get auto status react
@@ -43,11 +43,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "🪄,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923266105873",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923086687440",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "*𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽*",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "> *𝐏σωєяє∂ 𝐁у 𝐅αɪᴢαɴ-𝐌ᴅ⎯꯭̽🩷*",
+DESCRIPTION: process.env.DESCRIPTION || "> *𝐏σωєяє∂ 𝐁у ERFAN-𝐌ᴅ⎯꯭̽🩷*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/ejufwa.jpg",
 // add img for alive msg
@@ -75,7 +75,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923266105873",
+DEV: process.env.DEV || "923086687440",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
